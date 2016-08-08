@@ -1,0 +1,15 @@
+Módulo de Citas Médicas 
+Funcionalidad:
+El módulo de citas médicas tiene por objetivo asignar una cita médica en una determinada especialidad a un paciente que así lo requiera.
+Flujo de Actividad
+1. Buscar un paciente
+2. Seleccionar el paciente
+3. Confirmar el paciente
+4. Aparecerá una ventana con los turnos disponibles 
+5. Seleccionar el turno que se desea asignar
+6. Confirmar el turno.
+
+En Netbeans
+1. Solo se debe abrir el proyecto, y seleccionar la ubicación donde éste se encuentre
+Para la Base de datos: 
+1. La base da datos está hecha en postgres, por lo que se necesita el driver de conexión. y tener instalado postgres en el equipo
